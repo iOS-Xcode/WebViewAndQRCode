@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		649D29FF4F539116CE0A3435 /* Pods_WebViewAndQRCode.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C1006AC7D2C4213545F6F649 /* Pods_WebViewAndQRCode.framework */; };
+		B9480E5B2552083B00AE5271 /* screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = B9480E5A2552083B00AE5271 /* screenshot1.png */; };
+		B9480E5E2552085000AE5271 /* screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = B9480E5D2552085000AE5271 /* screenshot2.png */; };
+		B9480E612552085C00AE5271 /* screenshot3.png in Resources */ = {isa = PBXBuildFile; fileRef = B9480E602552085B00AE5271 /* screenshot3.png */; };
 		B94D403425510EA40077DD79 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B94D403325510EA40077DD79 /* AppDelegate.swift */; };
 		B94D403625510EA40077DD79 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B94D403525510EA40077DD79 /* SceneDelegate.swift */; };
 		B94D403825510EA40077DD79 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B94D403725510EA40077DD79 /* MainViewController.swift */; };
@@ -20,6 +23,9 @@
 /* Begin PBXFileReference section */
 		0F101455969A2F5C52C46AA9 /* Pods-WebViewAndQRCode.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WebViewAndQRCode.debug.xcconfig"; path = "Target Support Files/Pods-WebViewAndQRCode/Pods-WebViewAndQRCode.debug.xcconfig"; sourceTree = "<group>"; };
 		44A3D1FD2E8A39C9B8963B41 /* Pods-WebViewAndQRCode.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WebViewAndQRCode.release.xcconfig"; path = "Target Support Files/Pods-WebViewAndQRCode/Pods-WebViewAndQRCode.release.xcconfig"; sourceTree = "<group>"; };
+		B9480E5A2552083B00AE5271 /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot1.png; sourceTree = "<group>"; };
+		B9480E5D2552085000AE5271 /* screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot2.png; sourceTree = "<group>"; };
+		B9480E602552085B00AE5271 /* screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot3.png; sourceTree = "<group>"; };
 		B94D403025510EA40077DD79 /* WebViewAndQRCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebViewAndQRCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B94D403325510EA40077DD79 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B94D403525510EA40077DD79 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +84,9 @@
 				B94D403325510EA40077DD79 /* AppDelegate.swift */,
 				B94D403525510EA40077DD79 /* SceneDelegate.swift */,
 				B94D403725510EA40077DD79 /* MainViewController.swift */,
+				B9480E5A2552083B00AE5271 /* screenshot1.png */,
+				B9480E5D2552085000AE5271 /* screenshot2.png */,
+				B9480E602552085B00AE5271 /* screenshot3.png */,
 				B94D403925510EA40077DD79 /* Main.storyboard */,
 				B94D403C25510EA50077DD79 /* Assets.xcassets */,
 				B94D403E25510EA50077DD79 /* LaunchScreen.storyboard */,
@@ -154,8 +163,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B9480E612552085C00AE5271 /* screenshot3.png in Resources */,
+				B9480E5E2552085000AE5271 /* screenshot2.png in Resources */,
 				B94D404025510EA50077DD79 /* LaunchScreen.storyboard in Resources */,
 				B94D403D25510EA50077DD79 /* Assets.xcassets in Resources */,
+				B9480E5B2552083B00AE5271 /* screenshot1.png in Resources */,
 				B94D403B25510EA40077DD79 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
