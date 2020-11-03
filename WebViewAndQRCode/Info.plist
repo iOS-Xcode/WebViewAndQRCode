@@ -67,5 +67,7 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>For using QR code detect.</string>
 </dict>
 </plist>
